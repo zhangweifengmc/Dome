@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dome", "Dome\Dome.csproj", "{58A5F664-D828-4EB7-9A15-1104F4A19BA2}"
-EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ImgUpfile", "http://localhost:56470", "{80A94702-5377-47EB-A9C1-60294A326153}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
@@ -97,10 +95,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{58A5F664-D828-4EB7-9A15-1104F4A19BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{58A5F664-D828-4EB7-9A15-1104F4A19BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{58A5F664-D828-4EB7-9A15-1104F4A19BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{58A5F664-D828-4EB7-9A15-1104F4A19BA2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{80A94702-5377-47EB-A9C1-60294A326153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{80A94702-5377-47EB-A9C1-60294A326153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80A94702-5377-47EB-A9C1-60294A326153}.Release|Any CPU.ActiveCfg = Debug|Any CPU
